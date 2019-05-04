@@ -1,0 +1,12 @@
+g,wl,g,w,w,g
+w,b,wl,b,wl,b
+w,w,b,w,g,w
+w,w,w,g,w,g
+w,wl,wl,wl,b,w
+w,w,b,w,w,b
+wl,wl,g,w,w,g
+w,b,w,g,wl,b
+w,w,wl,wl,g,w
+w,w,w,b,w,g
+w,wl,wl,wl,b,w
+w,w,wl,b,b,wl
