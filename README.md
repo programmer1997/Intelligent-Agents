@@ -2,8 +2,7 @@
 ### Objective
 The objective of the assignment is to find the optimal policy and utilities of the non-walled states in the grid using both value iteration and policy iteration. The grid has states with different rewards and the agents state sequence is infinite.
 ### Report
-Check out the report of the assignment
-[here]()https://github.com/programmer1997/Intelligent-Agents/blob/master/Assignment-1/Report-1.pdf
+Check out the report of the assignment [here](https://github.com/programmer1997/Intelligent-Agents/blob/master/Assignment-1/Report-1.pdf)
 
 ## Assignment 2
 ### Objective 
